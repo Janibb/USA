@@ -1,0 +1,58 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    color: #c5c9ce;
+    background-color: oldlace;
+    margin: 0;
+    padding: 20px;
+}
+ 
+ 
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+    color: black;
+    text-align: center;
+    line-height: 1.3;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+ 
+h1 {
+    font-size: 5em;
+}
+ 
+h2 {
+    font-size: 1.5em;
+    text-align: center;
+}
+ 
+h3 {
+    font-size: 1em;
+    text-align: center;
+}
+ 
+ 
+p {
+    font-family: 'Lora', serif;
+    font-size: 1.1em;
+    color: black;
+    text-align: justify;
+    margin-bottom: 20px;
+    line-height: 10px;
+}
+ 
+.small, .big {
+    width: 1200px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+ 
+.big {
+    height: auto;
+}
+ 
+.box {
+    text-align: center;
+}
